@@ -7,6 +7,14 @@
   <br><sub>На хакатоне «Лидеры цифровой трансформации 2026»</sub>
 </p>
 
+## Команда
+
+| | GitHub | Роль |
+|---|---|---|
+| Артемий Корнилов | [@Artem-Kornilov-pro](https://github.com/Artem-Kornilov-pro) | продакт-менеджер |
+| Константин Жадько | [@rypleshhh](https://github.com/rypleshhh) | реверс |
+| Иван Климович | [@Neonchik4](https://github.com/Neonchik4) | фронтенд |
+
 ## Сейчас
 
 **[Хак-контест ФКН × Авито](https://cs.hse.ru/olymp/hackcontest/)**, 27–29 ноября 2026.
