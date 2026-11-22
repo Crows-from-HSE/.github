@@ -7,6 +7,11 @@
   <br><sub>На хакатоне «Лидеры цифровой трансформации 2026»</sub>
 </p>
 
+<p align="center">
+  <img src="assets/5164d92e-11ec-453f-a25b-aaf91acb8020.jpg" width="720">
+</p>
+
+
 ## Команда
 
 | | GitHub | Роль |
